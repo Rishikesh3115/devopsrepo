@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 created file7 for branch1
 git status
 
